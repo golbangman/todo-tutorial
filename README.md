@@ -7,6 +7,15 @@
 - 강의 본문: https://docs.claude-hunt.com
 - 수강생 결과물 공유: https://claude-hunt.com
 
+## 주요 기능
+
+- 할일 추가 / 완료 토글 / 수정 / 삭제
+- 우선순위(높음·보통·낮음) 및 카테고리(업무·개인·쇼핑) 지정
+- 제목 검색, 카테고리 필터, 진행중·완료 상태 필터
+- 생성일순 / 이름순 / 마감일순 정렬
+- 라이트·다크 모드 전환 (<kbd>d</kbd> 키로 토글)
+- 데이터는 브라우저 `localStorage`에 저장
+
 ## 기술 스택
 
 - Next.js 16 (App Router, Turbopack)
